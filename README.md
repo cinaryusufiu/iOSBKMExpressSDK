@@ -2,7 +2,7 @@
 
 ## Swift Package Manager
 
-To integrate YandexMapsMobile into your project using SwiftPM do this 👇🏻
+To integrate iOSBKMExpressSDK into your project using SwiftPM do this 👇🏻
 
 - File > Swift Packages > Add Package Dependency
 - Add `https://github.com/cinaryusufiu/iOSBKMExpressSDK`

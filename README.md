@@ -23,7 +23,7 @@ options:
   deploymentTarget:
     iOS: 12.0
 packages:
-  YandexMapsMobile:
+  iOSBKMExpressSDK:
     url: https://github.com/cinaryusufiu/iOSBKMExpressSDK
     from: 1.0.1
 targets:

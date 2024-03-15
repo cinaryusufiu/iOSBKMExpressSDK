@@ -11,7 +11,6 @@ let package = Package(
             targets: ["iOSBKMExpressSDK"]),
     ],
     targets: [
-       
         .binaryTarget(
             name: "iOSBKMExpressSDK",
             url: "https://github.com/cinaryusufiu/iOSBKMExpressSDK/releases/download/1.0.0/BKMExpressSDK.xcframework.zip",
